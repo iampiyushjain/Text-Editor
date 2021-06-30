@@ -5,9 +5,10 @@
 
 1.  [About](https://github.com/iampiyushjain/Text-Editor/blob/main/README.md#about)
 2.  [Technologies Used](https://github.com/iampiyushjain/Text-Editor/blob/main/README.md#technologies-used)
-3.  [Demo](https://github.com/iampiyushjain/Text-Editor/blob/main/README.md#demo)
-4.  [Contributing](https://github.com/iampiyushjain/Text-Editor/blob/main/README.md#contributing)
-5.  [License](https://github.com/iampiyushjain/Text-Editor/blob/main/README.md#license)
+3.  [Prerequisite](https://github.com/iampiyushjain/Text-Editor/blob/main/README.md#prerequisite)
+4.  [Demo](https://github.com/iampiyushjain/Text-Editor/blob/main/README.md#demo)
+5.  [Contributing](https://github.com/iampiyushjain/Text-Editor/blob/main/README.md#contributing)
+6.  [License](https://github.com/iampiyushjain/Text-Editor/blob/main/README.md#license)
 
 ## About
 
@@ -19,6 +20,27 @@ This was developed for exploring the Python GUI and to enhance my DSA skills.
 
 -   Python
 -   Tkinter( Python GUI toolkit)
+
+## Prerequisite
+
+-   Python3
+-   Pip3
+-   tkinter
+-   window
+
+## Demo
+
+ - This is how the text-editor looks like. You can write, edit and delete content in your file.
+
+![enter image description here](https://github.com/iampiyushjain/Text-Editor/blob/main/screenshots/file.gif)
+
+ - This is the dark mode which helps you to write in low light.
+
+![enter image description here](https://github.com/iampiyushjain/Text-Editor/blob/main/screenshots/dark_mode.gif)
+
+ - The best feature of the application is Unlimited Undo/Redo operations. 
+
+![enter image description here](https://github.com/iampiyushjain/Text-Editor/blob/main/screenshots/operation.gif)
 
 ## Contributing
 
