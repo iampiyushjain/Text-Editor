@@ -3,11 +3,11 @@
 
 ### Table of Contents
 
-1.  [About](https://github.com/iampiyushjain/Text-Editor/blob/master/README.md#about)
-2.  [Technologies Used](https://github.com/iampiyushjain/Text-Editor/blob/master/README.md#technologies-used)
-3.  [Demo](https://github.com/iampiyushjain/Text-Editor/blob/master/README.md#demo)
-4.  [Contributing](https://github.com/iampiyushjain/Text-Editor/blob/master/README.md#contributing)
-5.  [License](https://github.com/iampiyushjain/Text-Editor/blob/master/README.md#license)
+1.  [About](https://github.com/iampiyushjain/Text-Editor/blob/main/README.md#about)
+2.  [Technologies Used](https://github.com/iampiyushjain/Text-Editor/blob/main/README.md#technologies-used)
+3.  [Demo](https://github.com/iampiyushjain/Text-Editor/blob/main/README.md#demo)
+4.  [Contributing](https://github.com/iampiyushjain/Text-Editor/blob/main/README.md#contributing)
+5.  [License](https://github.com/iampiyushjain/Text-Editor/blob/main/README.md#license)
 
 ## About
 
